@@ -1,6 +1,6 @@
 # Genetic Algorithm Workshop
 
-## info
+## Description
 you will be implementing a GA that can match a given string 
 it is your job to put together a Genetic Algorithm that can do this.
 fortunately for you, most of the work has been done, all you have to do is fill out functions for fitness, selectParent, crossover, and mutation.
